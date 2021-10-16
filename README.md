@@ -9,7 +9,8 @@ This analysis was to help provide W. Avy with more information about temperature
 * The average temperature in June in Oahu is 74.9 degrees fahrenheit
 * The average temperature in December in Oahu is 71.0 degrees fahrenheit
 * The minumum temperature for the month of December is 56.0 degrees fahrenheit
-
+* The overall statistics for june weather can be found [here](Resources/June_Statistics.png).
+* The overall statistics for December temperatures can be found [here](Resources/December_Statistics.png).
 
 ## Summary
 
